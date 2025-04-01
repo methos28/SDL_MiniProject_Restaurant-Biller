@@ -16,8 +16,8 @@
   - Add Bunifu_UI_v1.52.dll into your references of Project Solution if its not Present there.
   - Install mysql-connector-net-8.0.22.msi to Get Mysql.Data it into the Project Solution References.
   - Add Mysql.Data in References of Project Solution if its not there.
-  - Add sdl_database into XAMPP>mysql>data>... to Create the database to Link it to the Software.
   - Add any missing references in Project Solution.
+  - The data of SQL database is corrupted here, take a look at the code and you will get the database table content, or review the code and create your own. Sorry for the inconvenience.
 
 ### NOTE : 
  It has a memory leak on Sign in module so try not to sign in multiple times in the single execution.
