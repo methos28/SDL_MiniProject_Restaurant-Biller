@@ -17,7 +17,7 @@
   - Install mysql-connector-net-8.0.22.msi to Get Mysql.Data it into the Project Solution References.
   - Add Mysql.Data in References of Project Solution if its not there.
   - Add any missing references in Project Solution.
-  - The data of SQL database is corrupted here, take a look at the code and you will get the database table content, or review the code and create your own. Sorry for the inconvenience.
+  - The data of SQL database is corrupted here, take a look at the code and you will get the database table content, or review the code and create your own. Sorry for the inconvenience, or you can try to replace the database with mine that might not work, the file is sdl_database.
 
 ### NOTE : 
  It has a memory leak on Sign in module so try not to sign in multiple times in the single execution.
