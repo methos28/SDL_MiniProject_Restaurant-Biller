@@ -21,6 +21,6 @@
 
 ### NOTE : 
  It has a memory leak on Sign in module so try not to sign in multiple times in the single execution.
- I stopped working on the project after the last commit, so if you find half cooked things in there its because of it.
+ I stopped working on the project 3 years ago, so if you find half cooked things in there its because of it.
  You can Edit things on your side as well no problems with that.
    
